@@ -1,0 +1,102 @@
+html body {
+  max-width: auto;
+  background-image: url("http://www.publicdomainpictures.net/pictures/130000/velka/pacman-games.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.header h1 {
+position: center;
+color: #2033c1;
+font-family: 'VT323', monospace;
+border: 2px solid #2033c1;
+border-radius: 5px;
+background-color: #ae1857;
+font-size: 120px;
+text-align: center;
+}
+
+.header .col-md-6 {
+position: center;
+}
+
+.header .col-md-4 .btn {
+  text-decoration: none;
+  width: 290px;
+  border: 2px solid #2033c1;
+  background-color: #40e331;
+  padding: 10px 0;
+  font-size: 16px;
+  color: #2033c1;
+  font-family: 'Press Start 2P', cursive;
+  margin-bottom: 2px;
+  margin-left: 30px;
+}
+
+.header .container {
+  margin-bottom: 40px;
+}
+
+.feature .col-md-8 img {
+  width: 730px;
+  height: 300px;
+}
+
+.feature .col-md-4 img {
+  width: 290px;
+  height: 300px;
+  margin-bottom: 10px;
+}
+
+.feature .col-md-4 .btn {
+  text-decoration: none;
+  width: 290px;
+  border: 2px solid #2033c1;
+  background-color: #40e331;
+  padding: 10px 0;
+  font-size: 16px;
+  color: #2033c1;
+  font-family: 'Press Start 2P', cursive;
+}
+
+.col-md-4 .btn:hover {
+  border: 2px solid #40e331;
+  background-color: #2033c1;
+  color: #40e331;
+}
+
+.row-one {
+  padding-top: 40px;
+}
+
+.bomb {
+  width: 90%;
+  height: 90%;
+  margin-left: 50px;
+  margin-top: -50px;
+}
+
+.row-one .placeholderimg {
+width: 100%;
+height: 70%;
+}
+
+.row-two .placeholderimg {
+width: 100%;
+height: 70%;
+}
+
+.row-three .placeholderimg {
+width: 100%;
+height: 70%;
+}
+
+.footer .container{
+  padding-left: 150px;
+  padding-bottom: 20px;
+}
+
+.footer .btn {
+  background-color: #ae1857;
+}
